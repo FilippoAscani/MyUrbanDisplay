@@ -1,0 +1,4 @@
+Functional requirements
+The system shall provide the possibility to filter show researches
+The system shall acquire and display showmen’s valuation on their profiles
+The system shall provide the option to follow an artist or a showman on their profiles

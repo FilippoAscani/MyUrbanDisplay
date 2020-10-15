@@ -1,0 +1,3 @@
+As a spectator I want to find new shows by filtering them according to my personal tastes
+As a showman I want to have a personal profile in order to receive valuations and be able to improve my show
+As a user I want the possibility to follow my favorite artists, so that I won’t miss any new show
