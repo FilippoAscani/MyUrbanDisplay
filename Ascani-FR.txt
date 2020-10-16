@@ -1,0 +1,5 @@
+1) The system shall provide a search bar.
+
+2)The system shall provide the five most commented reviews.
+
+3)The system must send a registration text message to the registered user within one minute of registration. 
