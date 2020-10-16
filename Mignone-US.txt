@@ -1,0 +1,11 @@
+-As a street artist I would like to know in which area of the
+city I could perform and at what time, so that I can better
+prepare my performance;
+
+-As a user I would like to know who the street artist I am
+looking at is, and possibly make a donation from the
+application;
+
+-As a government I would like to manage public
+performances clearly and prevent criminal interests behind
+them .

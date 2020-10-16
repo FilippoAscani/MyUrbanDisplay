@@ -1,0 +1,8 @@
+-The site must allow the registration of at least 100 street artists
+and update the occupied exhibition spaces in real time;
+
+-The site must allow payment to an artist who is performing by at
+least 3 people at the same time;
+
+-The site must acquire weather information to update the usable
+exhibition areas in real time.
