@@ -1,0 +1,5 @@
+1)As an artist I want a web application, so I can transmit my art to people.
+
+2)As a musician I want a dedicate section, so people can easily find my profile.
+
+3)As a user I want the possibility of being a premium user, so I can receive benefits that normal users don't have.
