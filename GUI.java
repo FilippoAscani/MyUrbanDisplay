@@ -44,7 +44,7 @@ public class GUI implements ActionListener {
 	public static void main(String[] args) {
 		new GUI(); //è un constructor
 		
-           //Pronostici Roma-Benevento?
+           //Pronostici Roma-Benevento? blajrkbfeirkvnkenvrtrrnryn
 	}
 
 
