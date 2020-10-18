@@ -35,7 +35,7 @@ public class GUI implements ActionListener {
 		frame.setVisible(true);
 		
 		button.addActionListener(this);
-		
+		//speramo bene
 		
 		
 	}
